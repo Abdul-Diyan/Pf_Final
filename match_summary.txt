@@ -1,0 +1,68 @@
+------------------- MATCH SUMMARY ---------------- 
+
+
+--------- PAKISTAN WON THE MATCH BY 5 WICKETS ---------
+
+------------- BATTING STATISTICS. ------------- 
+
+------- PAKISTAN ---------
+SCORECARD:
+PLAYER      RUNS      BALLS      4s      6s      str
+Diyan        18        5        1        1        360
+Ruban        0        1        0        0        0
+Muhab        7        4        0        0        175
+Ahsan        10        2        1        1        500
+Aqeel        0        0        0        0        0
+Rafey        0        0        0        0        0
+Hayee        0        0        0        0        0
+MOST RUNS SCORED BY ANY BATSMAN FOR PAKISTAN IS: Diyan = 18
+
+
+TOTAL SCORE: 35/2
+
+------- NEW ZEALAND ---------
+SCORECARD:
+PLAYER      RUNS      BALLS      4s      6s      str
+Tyler        10        5        0        1        200
+Wells        10        3        1        0        333.333
+bowes        11        4        0        1        275
+Raven        0        0        0        0        0
+Robin        0        0        0        0        0
+boult        0        0        0        0        0
+sodhi        0        0        0        0        0
+MOST RUNS SCORED BY ANY BATSMAN FOR PAKISTAN IS: bowes = 11
+TOTAL SCORE: 31/1
+
+------------- BOWLING STATISTICS. -------------
+
+------- PAKISTAN ---------
+NAME      OVERS      RUNS      WICKETS      ECONOMY
+Diyan        0        0          0            0      
+Ruban        0        0          0            0      
+Muhab        0        0          0            0      
+Ahsan        0        0          0            0      
+Aqeel        0        0          0            0      
+Rafey        1        17          1            17      
+Hayee        1        14          0            14      
+
+
+
+MOST WICKETS TAKEN BY ANY BOWLER FOR PAKISTAN IS: Rafey = 1
+------- NEW ZEALAND---------
+NAME      OVERS      RUNS      WICKETS      ECONOMY
+Tyler        0        0          0          0	
+Wells        0        0          0          0	
+bowes        0        0          0          0	
+Raven        0        0          0          0	
+Robin        0        0          0          0	
+boult        1        17          1          17	
+sodhi        1        18          1          18	
+MOST WICKETS TAKEN BY ANY BOWLER FOR NEW ZEALAND IS: sodhi = 1
+
+
+MAN OF THE MATCH IS: Diyan = 18
+
+
+BOWLER OF THE MATCH IS: sodhi = 1
+
+
